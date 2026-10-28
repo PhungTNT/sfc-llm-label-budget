@@ -1,7 +1,7 @@
 # UIT-VSFC: Zero-Shot LLMs, PhoBERT, and Human-Label Budgets
 
 **Research artifacts for Vietnamese student-feedback classification**  
-**Repository:** [dinoembe/sfc-llm-label-budget](https://github.com/dinoembe/sfc-llm-label-budget)  
+**Repository:** [PhungTNT/sfc-llm-label-budget](https://github.com/PhungTNT/sfc-llm-label-budget)  
 **Status:** Experimental results and research-in-progress; not a camera-ready paper or a fully reproducible release.
 
 ## Overview
